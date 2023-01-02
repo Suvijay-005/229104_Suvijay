@@ -1,0 +1,14 @@
+{
+  "name": "229104_suvijay-meshram",
+  "version": "1.0.0",
+  "description": "SDM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suvijay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
